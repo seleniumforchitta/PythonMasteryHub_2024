@@ -29,4 +29,3 @@ print(squaredNumFromList(abc))
 double = lambda n:n*2    # Lambda function doesn't have any name so they are also called anonymous function.
 print(double(10))
 
-
