@@ -6,3 +6,4 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 
 # Example usage
 driver.get("https://www.google.com")
+
