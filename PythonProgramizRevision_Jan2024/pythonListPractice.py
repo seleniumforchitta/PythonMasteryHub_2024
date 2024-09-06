@@ -20,3 +20,11 @@ print("---------------------------New Section------------------------------")
 a = 2
 b = 3
 print(a == b)
+
+# My Favourite interview question
+myList = [3, 2, 3, 4, 5, 2, 2, 3, 2, 6, 7]
+for i in myList:
+    if i == 2:
+        myList.remove(i)
+        myList.append(i)
+print(myList)

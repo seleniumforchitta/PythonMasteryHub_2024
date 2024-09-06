@@ -66,3 +66,10 @@ for i in list1:
     if i==5:
         break
     print(i)
+
+output = []
+for i in range(1, 100):
+    if i % 5 == 0:
+        output.append(str(i))
+
+print(", ".join(output))
