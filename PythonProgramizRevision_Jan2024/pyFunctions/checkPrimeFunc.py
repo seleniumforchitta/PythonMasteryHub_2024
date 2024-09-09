@@ -19,7 +19,6 @@ checkprime(4)
 checkprime(2)
 checkprime(21)
 checkprime(101)
-checkprime(111)
 checkprime(122)
 checkprime(123)
 
