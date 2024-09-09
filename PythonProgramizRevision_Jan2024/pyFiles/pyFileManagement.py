@@ -25,7 +25,7 @@ os.rename('test', 'new test')
 print(os.listdir())
 os.remove('test')
 
-# delete the empty directory "mydir"
+# delete the empty directory "test"
 os.rmdir("test")
 
 # delete "test" directory and all of its contents
