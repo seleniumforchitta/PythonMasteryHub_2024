@@ -1,4 +1,4 @@
-# We can initialize the values of data members using constructures
+# We can initialize the values of data members using constructors
 class Bikes:
     def __init__(self, name=""):
         self.name = name
